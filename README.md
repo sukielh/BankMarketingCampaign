@@ -39,31 +39,31 @@ Yet, the duration is not known before a call is performed. Also, after the end o
 21 - y - has the client subscribed a term deposit? (binary: 'yes','no')
 
 ### EDA
-**Total Observations of Numeric variables**
+**Total Observations of Numeric variables**<br>
 <img src="./Reports/Total_Obs.png" alt="drawing" width="900"/>
 
 **Client Subcribed by Age**<br>
 <img src="./Reports/Dist_by_Age.png" alt="drawing" width="300"/>
 
-**Comparing Working and a Breakdown of Each Job**
+**Comparing Working and a Breakdown of Each Job**<br>
 <img src="./Reports/Job_vs_Working.png" alt="drawing" width="700"/>
 
-**Campaign Duration Data**
+**Campaign Duration Data**<br>
 <img src="./Reports/Campaign_EDA.png" alt="drawing" width="800"/>
 
-**Do cell phones lead to longer or shorter calls than home phones?**
-<img src="./Reports/Telephone_vs_cellPhone.png" alt="drawing" width="1000"/>
+**Do cell phones lead to longer or shorter calls than home phones?**<br>
+<img src="./Reports/Telephone_vs_CellPhone.png" alt="drawing" width="1000"/>
 
 **Correlation between all Socio Eco Data**<br>
 <img src="./Reports/Socio_corr.png" alt="drawing" width="600"/>
 
-**Other Data**
-<img src="./Reports/Other_Data_EDA.png" alt="drawing" width="1000"/>
+**Other Data**<br>
+<img src="./Reports/Other_Data_EDA.png" alt="drawing" width="1000"/><br>
 
 >Previous Outcome is a good predictor, if they have previously converted they are likely to convert again.
 
 **Campaign**<br>
-<img src="./Reports/Campaign_by_Y.png" alt="drawing" width="400"/>
+<img src="./Reports/Campaign_by_Y.png" alt="drawing" width="400"/><br>
 
 >Number of times client has been contacted for this campaign. People usually convert within the first couple of calls.
 
@@ -72,18 +72,18 @@ Yet, the duration is not known before a call is performed. Also, after the end o
 <img src="./Reports/Previous_Calls.png" alt="drawing" width="400"/><br>
 >First time call recipients are less likely to convert for this campaign.
 
-**Mean of Y by Month and Day**
+**Mean of Y by Month and Day**<br>
 <img src="./Reports/Total_Calls_Month_Day.png" alt="drawing" width="1000"/>
 
-**Histogram for all Numeric Variables**
+**Histogram for all Numeric Variables**<br>
 <img src="./Reports/Histograms.png" alt="drawing" width="1000"/>
 
-**Mean Across all groups of Categorical Variables**
+**Mean Across all groups of Categorical Variables**<br>
 <img src="./Reports/Mean_Y_cat.png" alt="drawing" width="1000"/>
 
 **Correlation between all Kept Columns**<br>
 <img src="./Reports/Columns_Kept_corr.png" alt="drawing" width="600"/>
 
-**Final KNN Avg Precision**
+**Final KNN Avg Precision**<br>
 <img src="./Reports/KNN_AUC.png" alt="drawing" width="1000"/>
 
